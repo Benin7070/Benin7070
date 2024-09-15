@@ -36,6 +36,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Benin7070/Benin7070/output/snake.svg" alt="Snake animation" />
 
-###
